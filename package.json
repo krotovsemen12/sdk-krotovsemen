@@ -1,0 +1,28 @@
+{
+  "name": "sdk-krotovsemen",
+  "version": "1.0.0",
+  "description": "Sdk-krotovsemen is a Node.js module for performing astronomical calculations. It provides functions to calculate the position of the sun and moon, as well as the phase of the moon.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/krotovsemen12/sdk-krotovsemen"
+  },
+  "dependencies": {
+	  "vo21-module": "1.0.0",
+"md-zheminivan": "1.0.0",
+"dorothymoore-ini": "1.0.0",
+"jakea-lk": "1.0.0",
+"mod-sandrajones": "1.0.0",
+"lisacollins": "1.0.0",
+    "ephemeris": "^2.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krotovsemen12/sdk-krotovsemen/issues"
+  },
+  "homepage": "https://github.com/krotovsemen12/sdk-krotovsemen#readme"
+}
